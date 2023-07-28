@@ -1,7 +1,7 @@
 databases:
-  - name: TGM
-    databaseName: TGM
-    user: TGM
+  - name: tgm
+    databaseName: tgm
+    user: tgm
 
 services:
   - type: web
